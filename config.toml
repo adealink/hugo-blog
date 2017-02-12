@@ -1,3 +1,5 @@
 languageCode = "en-us"
-title = "My New Hugo Site"
-baseurl = "http://example.org/"
+title = "点点滴滴"
+baseurl = "http://adealink.github.io/"
+name = "Adealink技术博客"
+theme = "hugo-theme-learn"
